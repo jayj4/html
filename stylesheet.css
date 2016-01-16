@@ -1,6 +1,8 @@
 head{
-	color:#0000FF
+	background-image: url("http://skipark.com/wp-content/uploads/2010/08/innerBanner-snow-making-01.jpg");
+	background-color:#0000FF;
 }
 h1{
-	color:red
+	color:red;
+	text-decoration: line-through;
 }
